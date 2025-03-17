@@ -4,10 +4,10 @@ export type NavigationItem = {
 };
 
 export const SITE = {
-    name: "ByteKai",
-    title: "Software Engineer & Curious Tinkerer",
-    description: "Personal portfolio and blog",
-    url: "https://bytekai.dev",
+    name: "Ija",
+    title: "Aji's Blog",
+    description: "Personal blog",
+    url: "https://ija.netlify.app",
     defaultImage: "/default-og-image.jpg",
 } as const;
 
