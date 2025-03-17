@@ -1,8 +1,8 @@
 {
   "home": {
-    "name": "ByteKai",
-    "title": "Software Engineer & Curious Tinkerer",
-    "introduction": "I’m constantly learning and evolving. I love diving into new ideas and finding creative ways to solve problems.",
+    "name": "Ija",
+    "title": "Personal Website",
+    "introduction": "I don't really know what i am into, but i like games, anime, donghua, manga, manhwa, etc. So, I think I am a weeb.",
     "sections": {
       "blog": {
         "title": "Writing",
@@ -18,14 +18,7 @@
       }
     },
     "socialLinks": [
-      {
-        "platform": "GitHub",
-        "url": "https://github.com/bytekai"
-      },
-      {
-        "platform": "Twitter",
-        "url": "https://x.com/byteekai"
-      }
+      
     ]
   }
 }
